@@ -35,9 +35,6 @@ After training for **100 epochs** with data augmentation techniques like **Mosai
 ![Confusion Matrix](confusion_matrix.png)
 *Figure 2: Matrix showing high classification accuracy across all 5 gemstone classes.*
 
-### Prediction Sample
-![Detection Sample](val_batch0_pred.jpg)
-*Figure 3: Real-world gemstone detection using the trained model.*
 
 ## 🛠️ Technologies Used
 * **Framework:** Ultralytics YOLOv8
