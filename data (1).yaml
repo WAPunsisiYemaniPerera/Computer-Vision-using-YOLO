@@ -1,0 +1,9 @@
+names:
+- Red Beryl
+- Red Jasper
+- Tigers Eye
+- Goldstone
+- Rose Quartz
+nc: 5
+train: /content/clean_dataset/images
+val: /content/clean_dataset/images
